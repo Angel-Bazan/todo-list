@@ -9,4 +9,8 @@ h1{
 .completed{
     text-decoration: line-through; 
     color: gray;
+} 
+@media (min-width: 30em) and (max-width: 50em){
+    body{
+        width:100%;
 }
