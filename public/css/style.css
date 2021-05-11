@@ -16,7 +16,7 @@ h1{
     }
  @media(max-width: 552px){
     body{
-        background-size: cover;
+        
         background: no-repeat;
     }
 }
